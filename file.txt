@@ -1,0 +1,16 @@
+file.txt
+Exception in thread "main" java.io.FileNotFoundException: /Volumes/Data/Workspace/formations/java/workspace/exercice/file.txt (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:108)
+	at java.base/java.io.FileReader.<init>(FileReader.java:60)
+	at exercice.AppMain.main(AppMain.java:15)
+file.txt
+Exception in thread "main" java.io.FileNotFoundException: /Volumes/Data/Workspace/formations/java/workspace/exercice/file.txt (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:108)
+	at java.base/java.io.FileReader.<init>(FileReader.java:60)
+	at exercice.AppMain.main(AppMain.java:15)
